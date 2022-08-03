@@ -21,11 +21,11 @@ $ git clone https://github.com/2818064300/PlaneWars.git
 
 ## 游戏截图
 
-[截图1](https://github.com/2818064300/PlaneWars/blob/master/intro/img1.png)
+![截图1](https://github.com/2818064300/PlaneWars/blob/master/intro/img1.png)
 
-[截图2](https://github.com/2818064300/PlaneWars/blob/master/intro/img2.png)
+![截图2](https://github.com/2818064300/PlaneWars/blob/master/intro/img2.png)
 
-[截图3](https://github.com/2818064300/PlaneWars/blob/master/intro/img3.png)
+![截图3](https://github.com/2818064300/PlaneWars/blob/master/intro/img3.png)
 
 ## 更新日志
 
